@@ -1,6 +1,16 @@
 # Hello-World
 
 
-Hi Humans:
+Hello Welcome to my Git 
 
-I like Java and CoffeScript 
+
+I like Coffe and long work hours doing what I like the Most 
+
+
+Appreciate Your Visit 
+
+
+Bye bye 
+
+
+Take Care 
